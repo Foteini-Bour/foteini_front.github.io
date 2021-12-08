@@ -1,0 +1,132 @@
+body {background-image: url("paws.jpg")
+background-repeat: repeat;
+width:  90%;
+margin-left: auto;
+margin-right: auto;}
+
+.tittle {background-image: url("pets-cats-dogs-adobe-hero.jpg");
+background-size: cover;
+height: 300px;
+text-align: left;
+color: orange;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: bolder;
+font-style: italic;
+text-shadow: 2px 2px coral;}
+
+h1 {font-size: 40px;}
+
+p {font-size: 30px}
+
+.navbar-default {
+  background-color: #eda20a8b;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button1 {font-size: 20px;
+color: orange;}
+.button2 {font-size: 20px;
+color: orange}
+.button3 {font-size: 20px;
+color: orange}
+
+h3 {font-size: 20px;}
+
+textarea {font-size: 15px;}
+label {font-size: 15px;}
+input {font-size: 15px;}
+
+h2 {font-size: 25px;
+color: orange;
+font-style: italic;}
+
+img {border-radius: 50%; 
+width:300px;
+height:250px;
+}
+
+h3 {font-weight: bold;
+line-height: 80%;}
+
+h4 {text-align: right;
+font-size: 15px;
+color: rgba(9, 133, 190, 0.568);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: bolder;
+box-shadow: 5px 5px plum;
+}
+
+h6 {font-size: 25px;
+line-height: 180%;}
+
+#img3 {width: 800px;
+height:200px;
+}
+
+.header4 {background-color: white;
+color: orange;
+text-shadow: 2px 2px peachpuff;
+text-align: center;
+font-size: 35px;
+outline-style: groove;
+outline-color: coral;
+outline-width: 7px;
+}
+
+h5 {font-size: 20px;
+font-weight: bold;}
+
+ul {list-style-type: square;
+}
+
+li {font-size: 15px;
+color: rgba(9, 133, 190, 0.568);
+line-height: 20px;
+list-style: decimal;
+font-weight: bold;}
+
+.social {
+	border-style: dotted;
+	text-align: left;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-top: 5px;
+	margin-bottom: 15px;
+	font-weight: bold;
+}
+
+.right-side {
+right: 5%;
+float: right;
+top: 85%;
+position: absolute;
+color: lightskyblue;
+border: 15px solid navajowhite;
+width: 500px;
+height: 300px;
+background-color: lightyellow;
+}
+
+form {
+	margin-top: 25px;
+	margin-bottom: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	width: 95%;
+	box-shadow:inset 2px 2px 2px peachpuff;
+}
+
+.jumbotron {background-color: orange;}
+
+#message {width: 200px;
+height: 200px;}
